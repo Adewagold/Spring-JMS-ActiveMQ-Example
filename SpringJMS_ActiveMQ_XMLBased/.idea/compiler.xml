@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringJMS_ActiveMQ_XMLBased" />
+        <module name="SpringJMS_Topic_ActiveMQ" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringJMS_ActiveMQ_XMLBased" target="1.5" />
+      <module name="SpringJMS_Topic_ActiveMQ" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
